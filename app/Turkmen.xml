@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings>
+    <MainMenu>
+        <mnuFile>&amp;Dokument</mnuFile>
+        <mnuFileExport>&amp;HTML Görnüşinde Daşyna Çykar...</mnuFileExport>
+        <mnuFileExit>&amp;Çykyş</mnuFileExit>
+        <mnuAction>&amp;Hereket</mnuAction>
+        <mnuActionUninstall>&amp;Poz...</mnuActionUninstall>
+        <mnuActionModify>&amp;Çalyş...</mnuActionModify>
+        <mnuActionDelete>&amp;Zor Bilen Poz...</mnuActionDelete>
+        <mnuActionDeleteBatch>Köpüsini &amp;Zor Bilen Poz</mnuActionDeleteBatch>
+        <mnuActionRemoveEntry>&amp;Listden Öçür...</mnuActionRemoveEntry>
+        <mnuActionRemoveEntryBatch>Galyndyrlary &amp;Arassala</mnuActionRemoveEntryBatch>
+        <mnuActionJumpToRegistry>&amp;Registrasiýa Depderine Gir</mnuActionJumpToRegistry>
+        <mnuActionJumpToProgramFolder>&amp;Gurnalan Ýeri</mnuActionJumpToProgramFolder>
+        <mnuActionJumpToWebSite>&amp;Programmanyň Baş Sahypasy</mnuActionJumpToWebSite>
+        <mnuActionOpenWindowsStore>Windows Magazinynda Aç</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>Papkany Aç...</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>Çeşmäni Aç...</mnuActionBrowseSource>
+        <mnuActionGoogleFor>Google bilen Gözle</mnuActionGoogleFor>
+        <mnuView>&amp;Görünüm</mnuView>
+        <mnuViewDesktopApps>Iş stolyndaky programmalar</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Windows Magazinyndaky Programlar</mnuViewWinStoreApps>
+        <mnuViewRefresh>&amp;Täzele</mnuViewRefresh>
+        <mnuViewListColumnsReset>Sütünleri Nolla</mnuViewListColumnsReset>
+        <mnuViewLanguage>Penjiräniň Dili</mnuViewLanguage>
+        <mnuHelp>&amp;Ýardam</mnuHelp>
+        <mnuHelpAbout>&amp;Hakynda...</mnuHelpAbout>
+        <mnuHelpHomePage>GeekUninstaller Baş Sahypasy</mnuHelpHomePage>
+    </MainMenu>
+    <ListCtrl>
+        <columnProgramName>Programmaň Ady</columnProgramName>
+        <columnSize>Ölçegi</columnSize>
+        <columnInstallationDate>Gurnalan Senesi</columnInstallationDate>
+        <staticLoading>Ýüklenýär, garaşyň...</staticLoading>
+        <staticNoItemsMatchingFilterTip>Filtirläre zat ýok, nolllamak üçin ESC düwmä basyň</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Gurnalan Windows Magazyn Programmasy ýok</staticNoProgramsInCategory>
+        <mark32bitItem>(32-bit)</mark32bitItem>
+    </ListCtrl>
+    <ExplorerBar>
+        <itemShortSearchTip>Gözlejek programmaňyzy ýazyň</itemShortSearchTip>
+    </ExplorerBar>
+    <UninstallWizard>
+        <statusScanning>Galyndy faýl, papka we registrasiýa depderiniň yzlary gözlenýär...</statusScanning>
+        <statusLeftOverTracesFound>Galyndy yzlar tapyldy!</statusLeftOverTracesFound>
+        <statusNothingFound>Galyndy yzlar tapylmady.</statusNothingFound>
+        <statusAllTracesRemoved>Ähli yzlar aýryldy.</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>Programmanyň galyndylary pozulýar...</statusDeletingProgramTraces>
+        <treeItemFileSystem>Faýl Sistemasynda (%d zat)</treeItemFileSystem>
+        <treeItemRegistry>Reggistrasiýa depderinde (%d zat)</treeItemRegistry>
+        <treeItemPopopMenuBrowse>Gözet...</treeItemPopopMenuBrowse>
+        <btnFinish>Bitir</btnFinish>
+        <btnCancel>Beset</btnCancel>
+        <btnClose>Ýap</btnClose>
+    </UninstallWizard>
+    <DlgAbout>
+        <DlgAboutCaption>GeekUninstaller Hakynda</DlgAboutCaption>
+    </DlgAbout>
+    <Messages>
+        <msgUninstallFailed>Aýyrmak işi başa barmady. \nBu programma degişli papka we registrasiýa depderine girizilenleri arassalamak isleýäňizmi?</msgUninstallFailed>
+        <msgForceRemovalQuestion>Bu programmany zor bilen pozmakçymy?</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>Bu programmany listden pozmakçymy?</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>Bu zadyň registrasiýa depderindäki yzlaryny pozmak başa barmady. \nBu zat elýeter däl.</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>Täze wersiýa (%s) bar</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>Täze wersiýa bar! Täze wersiýany indirmek üçin Bolýar-a basyp GeekUninstaller sahypasyna göz atyň.</msgNewVersionAvailable2>
+    </Messages>
+    <ProVersion>
+        <statusMessage>PRO wersiýasyna beýgelt!</statusMessage>
+        <WhatsCool>PRO wersiýada nämeler has gowy:</WhatsCool>
+        <Feature1>Takyk wagtly indirme dolandyryjysy</Feature1>
+        <Feature2>Doly we Giňişleýin pozma</Feature2>
+        <Feature3>Başlangyç programmalary dolandyryjysy</Feature3>
+        <Feature4>Iň soňky goşulanlar we Tehniki goldaw</Feature4>
+        <Feature5>Köpçülikleýin pozmak</Feature5>
+        <buttonUpgrade>Beýgelt!</buttonUpgrade>
+    </ProVersion>
+    <HTMLReport>
+        <htmlFiles>HTML Dokumentleri</htmlFiles>
+        <allFiles>Ähli Dokumentler</allFiles>
+        <generatedByOn> %s on %s tarapyndan döredildi</generatedByOn>
+        <installedPrograms>Gurnalan programmalar (%s)</installedPrograms>
+    </HTMLReport>
+    <Misc>
+        <btnOK>Bolýar</btnOK>
+        <btnCancel>Beset</btnCancel>
+        <btnHelp>Goldaw</btnHelp>
+        <btnYes>Howwa</btnYes>
+        <btnNo>Ýok</btnNo>
+        <btnClose>Ýap</btnClose>
+        <statusTotalInfo>%d programmanyň umumy göwrümi %s</statusTotalInfo>
+        <statusUnknown>näbelli</statusUnknown>
+        <WindowsUpdatesText>Windows Täzelemeleri</WindowsUpdatesText>
+    </Misc>
+</LanguageStrings>
